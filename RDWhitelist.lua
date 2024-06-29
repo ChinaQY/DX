@@ -10,4 +10,5 @@ return {
     {"114514wubine",false,nil},
     {"onlooker01180",false,nil},
     {"hdjdjddjhdal",false,nil}
+    {"SDjdkskes",true,"使用脚本收费代打"},
 }
