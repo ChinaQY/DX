@@ -1,7 +1,6 @@
 return {
-    {"CNguxiaowu",false,"情云"},
-    {"DXkuaishou",false,"DX"},
-    {"onlooker01180",false,RJ},
-    {"poxiaohan520",false,RJ},
-    {"ksqycnm",true,"ban"}
+    {"CNguxiaowu",false,nil},
+    {"DXkuaishou",false,nil},
+    {"onlooker01180",false,nil},
+    {"poxiaohan520",false,nil}
 }
