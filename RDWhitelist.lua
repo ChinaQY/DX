@@ -13,6 +13,7 @@ return {
     {"CNdustdust114514",false,nil},
     {"hhughjhuhffgc",false,nil},
     {"jsjxbxnsbs",false,nil},
+    {"CNQWQ118",false,nil},
     {"SDjdkskes",true,"使用脚本收费代打"},
-    {"newspaper178",true,"自寻死路求黑名单满足你"}
+    {"newspaper178",true,"自寻死路要求黑名单满足你"}
 }
