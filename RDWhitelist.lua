@@ -18,6 +18,8 @@ return {
     {"qwq77233",false,nil},
     {"pan321322",false,nil},
     {"sansheq",false,nil},
+    {"aaa114514190",false,nil},
+    {"fengyi357",false,nil},
     {"SDjdkskes",true,"使用脚本收费代打"},
     {"newspaper178",true,"自寻死路要求黑名单满足你"}
 }
