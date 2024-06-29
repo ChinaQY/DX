@@ -12,5 +12,6 @@ return {
     {"hdjdjddjhdal",false,nil},
     {"CNdustdust114514",false,nil},
     {"hhughjhuhffgc",false,nil},
+    {"jsjxbxnsbs",false,nil},
     {"SDjdkskes",true,"使用脚本收费代打"}
 }
