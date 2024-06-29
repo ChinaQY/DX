@@ -1,4 +1,4 @@
 return {
-    {"CNguxiaowu",false,"ban"},
+    {"CNguxiaowu",false,"nil"},
     {"DXkuaishou",false,nil}
 }
