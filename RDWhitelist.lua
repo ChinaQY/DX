@@ -21,6 +21,12 @@ return {
     {"aaa114514190",false,nil},
     {"fengyi357",false,nil},
     {"gggmmm692",false,nil},
+    {"qdkyjpam7x",false,nil},
+    {"MRTBBBBBBBBBBS",false,nil},
+    {"woushi_noob",false,nil},
+    {"yyy9866",false,nil},
+    {"Tx_rr3",false,nil},
+    {"NWSSWSSS",false,nil},
     {"CNQWQ118",true,"使用脚本收费代打"},
     {"SDjdkskes",true,"使用脚本收费代打"},
     {"newspaper178",true,"自寻死路要求黑名单满足你"}
