@@ -38,6 +38,7 @@ return {
     {"DZTXCD",false,nil},
     {"oppoa11n",false,nil},
     {"gfnmypy",false,nil},
+    {"CN_ArceusXNEO",false,nil},
     {"Tx_rr3",true,"使用脚本收费代打"},
     {"CNQWQ118",true,"使用脚本收费代打"},
     {"SDjdkskes",true,"使用脚本收费代打"},
