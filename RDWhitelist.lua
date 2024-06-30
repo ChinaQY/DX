@@ -26,6 +26,7 @@ return {
     {"woushi_noob",false,nil},
     {"yyy9866",false,nil},
     {"NWSSWSSS",false,nil},
+    {"wdsjgz1",false,nil},
     {"Tx_rr3",true,"使用脚本收费代打"},
     {"CNQWQ118",true,"使用脚本收费代打"},
     {"SDjdkskes",true,"使用脚本收费代打"},
