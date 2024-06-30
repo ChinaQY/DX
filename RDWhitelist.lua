@@ -28,6 +28,7 @@ return {
     {"NWSSWSSS",false,nil},
     {"wdsjgz1",false,nil},
     {"adonid2013",false,nil},
+    {"CNtetryt1",false,nil},
     {"Tx_rr3",true,"使用脚本收费代打"},
     {"CNQWQ118",true,"使用脚本收费代打"},
     {"SDjdkskes",true,"使用脚本收费代打"},
