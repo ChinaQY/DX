@@ -14,7 +14,6 @@ return {
     {"CNdustdust114514",false,nil},
     {"hhughjhuhffgc",false,nil},
     {"jsjxbxnsbs",false,nil},
-    {"CNQWQ118",false,nil},
     {"yyds_6657",false,nil},
     {"qwq77233",false,nil},
     {"pan321322",false,nil},
