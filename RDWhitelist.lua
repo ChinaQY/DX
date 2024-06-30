@@ -21,6 +21,7 @@ return {
     {"aaa114514190",false,nil},
     {"fengyi357",false,nil},
     {"gggmmm692",false,nil},
+    {"CNQWQ118",true,"使用脚本收费代打"},
     {"SDjdkskes",true,"使用脚本收费代打"},
     {"newspaper178",true,"自寻死路要求黑名单满足你"}
 }
