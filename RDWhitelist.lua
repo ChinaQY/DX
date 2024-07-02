@@ -40,6 +40,7 @@ return {
     {"gfnmypy",false,nil},
     {"CN_ArceusXNEO",false,nil},
     {"uuhuulk_3",false,nil},
+    {"luqixuan8",true,"使用脚本收费代打"},
     {"bilibili_TVmsdoors",true,"使用脚本收费代打"},
     {"Tx_rr3",true,"使用脚本收费代打"},
     {"CNQWQ118",true,"使用脚本收费代打"},
