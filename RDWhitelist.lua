@@ -39,6 +39,7 @@ return {
     {"oppoa11n",false,nil},
     {"gfnmypy",false,nil},
     {"CN_ArceusXNEO",false,nil},
+    {"uuhuulk_3",false,nil},
     {"bilibili_TVmsdoors",true,"使用脚本收费代打"},
     {"Tx_rr3",true,"使用脚本收费代打"},
     {"CNQWQ118",true,"使用脚本收费代打"},
