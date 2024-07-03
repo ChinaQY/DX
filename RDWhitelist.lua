@@ -40,6 +40,7 @@ return {
     {"gfnmypy",false,nil},
     {"CN_ArceusXNEO",false,nil},
     {"uuhuulk_3",false,nil},
+    {"China_aep360",false,nil},
     {"114514XZK",true,"使用脚本收费代打"},
     {"dy_flower pot",true,"使用脚本收费代打"},
     {"luqixuan8",true,"使用脚本收费代打"},
