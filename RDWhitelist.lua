@@ -50,5 +50,6 @@ return {
     {"CNQWQ118",true,"使用脚本收费代打"},
     {"SDjdkskes",true,"使用脚本收费代打"},
     {"CN_oyt931",true,"使用脚本收费代打"},
+    {"longshu8861",true,"倒卖DX源码"},
     {"newspaper178",true,"自寻死路要求黑名单满足你"}
 }
