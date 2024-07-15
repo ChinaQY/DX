@@ -53,6 +53,7 @@ return {
     {"CN_oyt931",true,"使用脚本收费代打"},
     {"53qshqq",true,"缝合大帝霖溺"},
     {"182yx7",true,"骚扰管理员"},
+    {"jdjfjgjgjgjfj",true,"傻子小天"},
     {"longshu8861",true,"倒卖DX源码"},
     {"newspaper178",true,"自寻死路要求黑名单满足你"}
 }
